@@ -1,5 +1,5 @@
-🏥 Healthcare Claims Cost Analysis – Where Is the Money Going?
-📌 Project Overview
+**🏥 Healthcare Claims Cost Analysis – Where Is the Money Going?**
+**📌 Project Overview**
 
 This project analyzes synthetic healthcare insurance claims data to understand where healthcare spending is concentrated and why the insurer may be losing money.
 
@@ -15,7 +15,7 @@ Gaps between billed vs paid amounts
 
 The final output is an interactive Tableau dashboard designed for C-level stakeholders to support cost-containment and profitability strategies.
 
-🎯 Business Problem
+**🎯 Business Problem**
 
 Healthcare costs are rising, and insurers need visibility into:
 
@@ -29,7 +29,7 @@ Whether a small subset of members accounts for a large share of spending
 
 This dashboard helps identify cost leakage and concentration risk.
 
-📊 Key Questions Answered
+**📊 Key Questions Answered**
 
 Which claim types (Inpatient, Emergency, Outpatient, Pharmacy) are the most expensive?
 
@@ -43,7 +43,7 @@ How do billed amounts compare to paid amounts across claim types?
 
 Where does the paid-to-billed ratio indicate inefficiency or overbilling?
 
-🧰 Tech Stack
+**🧰 Tech Stack**
 
 Excel – initial data review
 
@@ -51,7 +51,7 @@ SQL – aggregations and calculations
 
 Tableau – dashboard design and visualization
 
-📈 Dashboard Highlights
+**📈 Dashboard Highlights**
 Executive KPIs
 
 Total Paid Amount
@@ -78,7 +78,7 @@ Top Members by Total Paid Amount
 
 Billed vs Paid comparison by Claim Type
 
-💡 Key Insights
+**💡 Key Insights**
 
 Inpatient services account for the majority of total paid spend
 
