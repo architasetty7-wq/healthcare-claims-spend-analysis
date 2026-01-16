@@ -89,3 +89,6 @@ Top members contribute heavily to overall spend concentration
 Paid amounts are consistently lower than billed amounts, but gaps vary by claim type
 
 Inpatient services and a limited number of procedures and members account for most of the insurer’s total paid spend.
+
+<img width="1196" height="973" alt="image" src="https://github.com/user-attachments/assets/5a98aa78-455e-4b57-9c01-ba74c4448ea4" />
+
